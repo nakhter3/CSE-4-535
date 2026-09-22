@@ -1,5 +1,5 @@
 # CSE 4/535 Project 2: Starter Kit
-### Credit: (former UB student and instructor) Sougata Saha
+### Contribution credit: (former UB student and instructor) Sougata Saha
 
 This codebase is a starter kit for Project 2. Usage of this toolkit is **RECOMMENDED**.
 
@@ -7,7 +7,7 @@ This codebase is a starter kit for Project 2. Usage of this toolkit is **RECOMME
 ## Requirements
 
 Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install the requirements. 
-
+s
 ```bash
 sudo apt-get update
 sudo apt install python3-pip -y
