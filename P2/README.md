@@ -1,5 +1,4 @@
 # CSE 4/535 Project 2: Starter Kit
-### Contribution credit: (former UB student and instructor) Sougata Saha
 
 This codebase is a starter kit for Project 2. Usage of this toolkit is **RECOMMENDED**.
 
@@ -28,7 +27,11 @@ pip3 install tqdm Flask nltk
 - Run `run_project.py` using the command `python3 run_project.py --corpus ./data/input_corpus.txt --output_location ./data/output.json --username your_UB_username` 
 - Don't forget to open the port 9999 on your instance for TCP connections.
 
+
 ## Contributing
+
+### Acknowledgement: Credit goes to (former UB student and instructor) Sougata Saha for his contribution
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
