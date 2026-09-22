@@ -1,5 +1,5 @@
 # CSE 4/535 Project 2: Starter Kit
-## Credit: (former UB student and instructor) Sougata Saha
+### Credit: (former UB student and instructor) Sougata Saha
 
 This codebase is a starter kit for Project 2. Usage of this toolkit is **RECOMMENDED**.
 
