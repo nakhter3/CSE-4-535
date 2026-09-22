@@ -30,7 +30,7 @@ pip3 install tqdm Flask nltk
 
 ## Contributing
 
-### Acknowledgement: Credit goes to (former UB student and instructor) Sougata Saha for his contribution
+#### Acknowledgement: Credit goes to (former UB student and instructor) Sougata Saha for his code contribution
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
