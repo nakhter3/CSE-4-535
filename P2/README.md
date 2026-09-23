@@ -6,7 +6,7 @@ This codebase is a starter kit for Project 2. Usage of this toolkit is **RECOMME
 ## Requirements
 
 Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install the requirements. 
-s
+
 ```bash
 sudo apt-get update
 sudo apt install python3-pip -y
@@ -30,7 +30,7 @@ pip3 install tqdm Flask nltk
 
 ## Contributing
 
-#### Acknowledgement: Credit goes to (former UB student and instructor) Sougata Saha for his code contribution.
+#### Acknowledgement: Thanks to (former UB student and instructor) Sougata Saha for writing the templates!
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
